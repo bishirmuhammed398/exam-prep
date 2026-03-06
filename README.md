@@ -74,3 +74,64 @@ Steps to follow:
     * Save the scaler as well
 
 Write clean, well-commented Python code for each step.
+-------------------------------------------------------------------------------
+Import Libraries
+      ↓
+Load Dataset
+      ↓
+EDA
+      ↓
+Handle Missing Values
+      ↓
+Outlier Detection
+      ↓
+Feature Engineering
+      ↓
+Encoding
+      ↓
+Feature Selection
+      ↓
+Scaling
+      ↓
+Train Test Split
+      ↓
+Train Multiple Models
+      ↓
+Evaluate Models
+      ↓
+Compare Models
+      ↓
+Select Best Model
+      ↓
+Fine Tune
+      ↓
+Final Model
+
+supervised structure
+-----------------------------------------------------------------------
+Import Libraries
+        ↓
+Load Dataset
+        ↓
+EDA
+        ↓
+Handle Missing Values
+        ↓
+Encoding
+        ↓
+Feature Scaling
+        ↓
+PCA (Dimensionality Reduction)
+        ↓
+K-Means Clustering
+        ↓
+Agglomerative Clustering
+        ↓
+Cluster Visualization
+        ↓
+Cluster Interpretation
+        ↓
+Final Insights
+
+unsupervised
+------------------------------------------------------
